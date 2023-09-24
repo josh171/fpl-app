@@ -1,0 +1,124 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "team": "Arsenal",
+      "abbr": "ARS",
+      "nickname": "The Gunners"
+    },
+    {
+      "id": 2,
+      "team": "Aston Villa",
+      "abbr": "AST",
+      "nickname": "The Villains"
+    },
+    {
+      "id": 3,
+      "team": "Bournemouth",
+      "abbr": "BOU",
+      "nickname": "Cherries"
+    },
+    {
+      "id": 4,
+      "team": "Brentford",
+      "abbr": "BRE",
+      "nickname": "Bees"
+    },
+    {
+      "id": 5,
+      "team": "Brighton",
+      "abbr": "BHA",
+      "nickname": "The Seagulls"
+    },
+    {
+      "id": 6,
+      "team": "Burnley",
+      "abbr": "BUR",
+      "nickname": "The Clarets"
+    },
+    {
+      "id": 7,
+      "team": "Chelsea",
+      "abbr": "CHE",
+      "nickname": "The Blues"
+    },
+    {
+      "id": 8,
+      "team": "Crystal Palace",
+      "abbr": "CRY",
+      "nickname": "The Eagles"
+    },
+    {
+      "id": 9,
+      "team": "Everton",
+      "abbr": "EVE",
+      "nickname": "The Toffees"
+    },
+    {
+      "id": 10,
+      "team": "Fulham",
+      "abbr": "FUL",
+      "nickname": ""
+    },
+    {
+      "id": 11,
+      "team": "Liverpool",
+      "abbr": "LIV",
+      "nickname": "The Reds"
+    },
+    {
+      "id": 12,
+      "team": "Luton Town",
+      "abbr": "LUT",
+      "nickname": ""
+    },
+    {
+      "id": 13,
+      "team": "Manchester City",
+      "abbr": "MCI",
+      "nickname": "The Citizens"
+    },
+    {
+      "id": 14,
+      "team": "Manchester United",
+      "abbr": "MUN",
+      "nickname": "Red Devils"
+    },
+    {
+      "id": 15,
+      "team": "Newcastle United",
+      "abbr": "NEW",
+      "nickname": "The Magpies"
+    },
+    {
+      "id": 16,
+      "team": "Nottingham Forest",
+      "abbr": "NOT",
+      "nickname": "Forest"
+    },
+    {
+      "id": 17,
+      "team": "Sheffield United",
+      "abbr": "SHU",
+      "nickname": "The Blades"
+    },
+    {
+      "id": 18,
+      "team": "Tottenham Hotspur",
+      "abbr": "TOT",
+      "nickname": "Spurs"
+    },
+    {
+      "id": 19,
+      "team": "West Ham United",
+      "abbr": "WHU",
+      "nickname": "The Hammers"
+    },
+    {
+      "id": 20,
+      "team": "Wolverhampton Wanderes",
+      "abbr": "WOL",
+      "nickname": "Wolves"
+    }
+  ]
+}

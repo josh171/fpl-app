@@ -1,0 +1,24 @@
+{
+  "positions": [
+    {
+      "id": 1,
+      "position_full": "Goalkeeper",
+      "position_short": "GK"
+    },
+    {
+      "id": 2,
+      "position_full": "Defender",
+      "position_short": "DEF"
+    },
+    {
+      "id": 3,
+      "position_full": "Midfielder",
+      "position_short": "MID"
+    },
+    {
+      "id": 4,
+      "position_full": "Forward",
+      "position_short": "FWD"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "players": [
+    {
+      "id": 124,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 139,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 141,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 144,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 148,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 151,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 154,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 157,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 162,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 167,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 3,
+          "team": "CRY",
+          "side": "A"
+        },
+        {
+          "difficulty": 2,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    },
+    {
+      "id": 193,
+      "first_name": "Bruno",
+      "second_name": "Fernandes",
+      "team": 14,
+      "now_cost": 85,
+      "fixtures": [
+        {
+          "difficulty": 2,
+          "team": "NOT",
+          "side": "H"
+        },
+        {
+          "difficulty": 4,
+          "team": "ARS",
+          "side": "A"
+        },
+        {
+          "difficulty": 3,
+          "team": "BHA",
+          "side": "H"
+        },
+        {
+          "difficulty": 5,
+          "team": "MCI",
+          "side": "A"
+        },
+        {
+          "difficulty": 1,
+          "team": "FUL",
+          "side": "H"
+        }
+      ]
+    }
+  ]
+}

@@ -1,24 +1,21 @@
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+import { BrowserRouter as Router } from "react-router-dom";
+import Navbar from "./core/Navbar";
+import AppRoutes from "./core/AppRoutes";
+import { ThemeProvider } from "./core/context/themeContext";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <ThemeProvider>
+        <div className="fpl-app-container">
+          <Navbar />
+          <div className="content-container">
+            <AppRoutes />
+          </div>
+        </div>
+      </ThemeProvider>
+    </Router>
   );
 }
 

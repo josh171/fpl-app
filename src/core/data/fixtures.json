@@ -1,0 +1,29 @@
+{
+  "fixtures": [
+    {
+      "difficulty": 2,
+      "team": "NOT",
+      "side": "H"
+    },
+    {
+      "difficulty": 4,
+      "team": "ARS",
+      "side": "A"
+    },
+    {
+      "difficulty": 3,
+      "team": "BHA",
+      "side": "H"
+    },
+    {
+      "difficulty": 3,
+      "team": "CRY",
+      "side": "A"
+    },
+    {
+      "difficulty": 2,
+      "team": "FUL",
+      "side": "H"
+    }
+  ]
+}
